@@ -3,6 +3,64 @@ Links:
 [[Algorithm]]
 [[SECONDARY national curriculum Computing KS3 and KS4#Understand several key algorithms that reflect computational thinking]]
 
+## Learning Objectives
+
+### KS3 Objectives (Ages 11-14)
+
+By the end of this lesson, students will be able to:
+
+| Objective                                                                                                | Level         |
+| -------------------------------------------------------------------------------------------------------- | ------------- |
+| Explain bubble sort in plain English as a method of sorting by comparing and swapping neighbouring items | Knowledge     |
+| Demonstrate how bubble sort works using physical movement or number cards                                | Application   |
+| Trace through a bubble sort manually to show how the largest value "bubbles" to the end each pass        | Understanding |
+| Count the number of swaps and passes required to sort a small list                                       | Analysis      |
+| Write a simple algorithm for bubble sort in pseudocode or plain English                                  | Synthesis     |
+
+### KS4 Objectives (Ages 14-16)
+
+By the end of this lesson, students will be able to:
+
+| Objective                                                                              | Level         |
+| -------------------------------------------------------------------------------------- | ------------- |
+| Describe bubble sort as an iterative algorithm that makes repeated passes until sorted | Knowledge     |
+| Implement bubble sort in code (e.g., JavaScript/Python)                                | Application   |
+| Explain why bubble sort has O(n²) time complexity in the worst and average cases       | Understanding |
+| Identify the best-case scenario (already sorted list) and its O(n) complexity          | Analysis      |
+| Compare bubble sort's efficiency to other sorting algorithms (merge sort, quick sort)  | Evaluation    |
+
+## Timing Guidelines
+
+### KS3 Lesson (50-60 minutes)
+
+| Section              | Time   | Activity                                                       |
+| -------------------- | ------ | -------------------------------------------------------------- |
+| Introduction         | 5 min  | Hook: "How would you sort these numbers?" — show unsorted list |
+| Explanation          | 10 min | Teach the concept using the "bubbling" analogy                 |
+| **Practical Demo**   | 15 min | **Card shuffle activity** with students or number cards        |
+| Guided Practice      | 15 min | Count the swaps task (worksheet or whiteboard)                 |
+| Independent Practice | 10 min | Write the algorithm in plain English                           |
+| Plenary              | 5 min  | Review: "When should you use bubble sort?"                     |
+
+### KS4 Lesson (60-70 minutes)
+
+| Section | Time | Activity |
+|---------|------|----------|
+| Recap/Introduction | 5 min | Quick review: "What's the problem with bubble sort for large datasets?" |
+| Explanation | 10 min | Formal definition, passes, swaps, and the `swapped` flag optimisation |
+| Practical Demo | 10 min | Card shuffle with focus on counting comparisons and passes |
+| Code Implementation | 15 min | Live coding or students implement bubble sort in JavaScript/Python |
+| Complexity Analysis | 15 min | Discuss O(n²), best case O(n), compare to other algorithms |
+| Discussion & Tasks | 10-15 min | Discussion questions table + "When should you use bubble sort?" |
+
+## Differentiation Tips
+
+| Support                                                     | Challenge                                                          |
+| ----------------------------------------------------------- | ------------------------------------------------------------------ |
+| Provide partially completed algorithms for the writing task | Ask students to implement the `swapped` optimisation if not shown  |
+| Use fewer numbers (5-6) for the card demo                   | Research and present on why bubble sort is rarely used in practice |
+| Pair students for the practical demo                        | Modify the code to sort in descending order                        |
+
 # What is bubble sort ?
 
 ## KS3
