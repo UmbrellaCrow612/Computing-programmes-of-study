@@ -1,7 +1,8 @@
 
 Links:
-[[Algorithm]]
-[[SECONDARY national curriculum Computing KS3 and KS4#Understand several key algorithms that reflect computational thinking]]
+- [[Algorithm]]
+- [[SECONDARY national curriculum Computing KS3 and KS4#Understand several key algorithms that reflect computational thinking]]
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTSp8CBPSSGQh9yOuA1sYlANsliD2yVNSj84uk49wxl13vp217cc7azz2d3i0Qjuf4nurp3sN3zmIrU/pub?start=true&loop=true&delayms=10000)
 
 ## Learning Objectives
 
