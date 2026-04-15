@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "d54eae4ababeaad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1bd7de43f138fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d71c3f9fba55316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Sorting/Bubble Sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bubble Sort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3f4171a0576a742",
+    "type": "split",
+    "children": [
+      {
+        "id": "4492e9227c0d2182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9c567c14ceba21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3d8d466aeedb058",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bubb",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34bafac140167010",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 535.5
+  },
+  "right": {
+    "id": "190f09cd44cc01f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c1fc54fa86da5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2229385a7780cfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithms/Sorting/Bubble Sort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bubble Sort"
+            }
+          },
+          {
+            "id": "b84bb4f49fbd4a98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithms/Sorting/Bubble Sort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bubble Sort"
+            }
+          },
+          {
+            "id": "b94e97e9ca821213",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56e820e9a0b33a3e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "514df4ec8d9ce81b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithms/Sorting/Bubble Sort.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bubble Sort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9d71c3f9fba55316",
+  "lastOpenFiles": [
+    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
+    "Algorithms/Sorting/Bubble Sort.md",
+    "Curriculum/SECONDARY_national_curriculum_-_Computing.pdf",
+    "Algorithms/Algorithm.md",
+    "Untitled.canvas",
+    "Curriculum",
+    "Untitled.md",
+    "Algorithms/Recursion & Divide-and-Conquer",
+    "Algorithms/Data Structure Operations",
+    "Algorithms/Math & Number Theory",
+    "Algorithms/String Algorithms",
+    "Algorithms/Dynamic Programming",
+    "Algorithms/Graph Algorithms",
+    "Algorithms/Searching",
+    "Algorithms/Sorting",
+    "Welcome.md"
+  ]
+}
