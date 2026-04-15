@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8fceaa52a75202d",
+        "id": "0d5e47f663e919cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd4d0cb563e34d7",
+            "id": "e8d095cc73566669",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Sorting/Bubble Sort.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bubble Sort"
             }
           }
         ]
@@ -176,14 +180,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "0fd4d0cb563e34d7",
+  "active": "e8d095cc73566669",
   "lastOpenFiles": [
+    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
     "Algorithms/Sorting/Bubble Sort.md",
+    "Algorithms/Algorithm.md",
     "License",
     "README.md",
-    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
     "Curriculum/SECONDARY_national_curriculum_-_Computing.pdf",
-    "Algorithms/Algorithm.md",
     "Untitled.canvas",
     "Curriculum",
     "Untitled.md",
