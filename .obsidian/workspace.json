@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1bd7de43f138fc",
+        "id": "a8fceaa52a75202d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d71c3f9fba55316",
+            "id": "0fd4d0cb563e34d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Sorting/Bubble Sort.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bubble Sort"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sorting/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bubble Sort"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Sorting/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bubble Sort"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Sorting/Bubble Sort.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bubble Sort"
+              "title": "Outline"
             }
           }
         ]
@@ -183,10 +176,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d71c3f9fba55316",
+  "active": "0fd4d0cb563e34d7",
   "lastOpenFiles": [
-    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
     "Algorithms/Sorting/Bubble Sort.md",
+    "License",
+    "README.md",
+    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
     "Curriculum/SECONDARY_national_curriculum_-_Computing.pdf",
     "Algorithms/Algorithm.md",
     "Untitled.canvas",
@@ -199,7 +194,6 @@
     "Algorithms/Dynamic Programming",
     "Algorithms/Graph Algorithms",
     "Algorithms/Searching",
-    "Algorithms/Sorting",
     "Welcome.md"
   ]
 }
