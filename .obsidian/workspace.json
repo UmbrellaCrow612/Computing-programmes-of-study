@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4957b6bf18d4623e",
+        "id": "27d1fe2b54fee96e",
         "type": "tabs",
         "children": [
           {
-            "id": "55694081b0ffb58d",
+            "id": "5e4e18d2190945f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Sorting/Bubble Sort.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bubble Sort"
             }
           }
         ]
@@ -176,17 +180,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "55694081b0ffb58d",
+  "active": "5e4e18d2190945f5",
   "lastOpenFiles": [
+    "Operators & Expressions/Operators & Expressions.md",
+    "Algorithms/Sorting/Bubble Sort.md",
+    "Templates/Material.md",
+    "Functions/Functions.md",
+    "Templates",
+    "Selection & Iteration/Untitled.md",
+    "Selection & Iteration/Iterations/For loops.md",
+    "Functions",
+    "Algorithms/Algorithm.md",
+    "Data Structures/Arrays.md",
     "Curriculum/Hello_World_The_Big_Book_of_Pedagogy.pdf",
     "Selection & Iteration/Iterations/While loops.md",
-    "Selection & Iteration/Iterations/For loops.md",
     "Curriculum/610951-specification-cambridge-nationals-it-j836.pdf",
-    "Algorithms/Sorting/Bubble Sort.md",
-    "Data Structures/Arrays.md",
-    "Operators & Expressions/Operators & Expressions.md",
     "Operators & Expressions/Comparison & Relational Operators/Less than.md",
-    "Selection & Iteration/Untitled.md",
     "Operators & Expressions/Assignment Operators/PLUS OR MINUS EQUALS.md",
     "Operators & Expressions/Assignment Operators/EQUALS.md",
     "Operators & Expressions/Arithmetic Operators/MOD.md",
@@ -203,17 +212,12 @@
     "Operators & Expressions/Comparison & Relational Operators/Equal.md",
     "Operators & Expressions/Comparison & Relational Operators/Not equal.md",
     "Operators & Expressions/Comparison & Relational Operators/Less than or equal or  greater than or equal.md",
-    "Operators & Expressions/Comparison & Relational Operators/Greater than.md",
-    "Selection & Iteration/Iteration.md",
     "Operators & Expressions/Assignment Operators",
     "Operators & Expressions/Boolean & Logical Operators",
     "Operators & Expressions/Comparison & Relational Operators",
     "Operators & Expressions/Arithmetic Operators",
     "Selection & Iteration/Selections",
     "Data Structures",
-    "Symbols & Expressions/Expressions",
-    "Selection & Iteration/Iterations",
-    "Selection & Iteration",
     "Untitled.canvas"
   ]
 }
