@@ -1,4 +1,8 @@
 
+Related knowledge:
+
+- [[Logic Gates]]
+
 A `bit` (short for binary digit) is the smallest unit of data in a computer. It's like an atom, you can't break it down further.
 
 A bit has only two possible values:
