@@ -1,6 +1,7 @@
 
 Links: and previous knowledge required:
 - [[Operators & Expressions]]
+- [[Booleans]]
 - [[For loops]]
 - [[Arrays]]
 - [[Functions]]

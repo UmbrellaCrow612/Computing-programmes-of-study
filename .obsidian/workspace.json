@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27d1fe2b54fee96e",
+        "id": "6653a4d0e6a0e8d6",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4e18d2190945f5",
+            "id": "4ba38739c16b68ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sorting/Bubble Sort.md",
-                "mode": "source",
+                "file": "Data Structures/Machine Memory/Bit.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bubble Sort"
+              "title": "Bit"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bubb",
+                "query": "bubble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,12 +180,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e4e18d2190945f5",
+  "active": "4ba38739c16b68ee",
   "lastOpenFiles": [
-    "Operators & Expressions/Operators & Expressions.md",
+    "Data Structures/Machine Memory/Byte.md",
+    "Data Structures/Machine Memory/Bit.md",
+    "Booleans/Booleans.md",
     "Algorithms/Sorting/Bubble Sort.md",
-    "Templates/Material.md",
+    "Data Structures/Machine Memory",
+    "Operators & Expressions/Operators & Expressions.md",
+    "Booleans",
     "Functions/Functions.md",
+    "Curriculum/610951-specification-cambridge-nationals-it-j836.pdf",
+    "Selection & Iteration/Selections/IF statements.md",
+    "Templates/Material.md",
     "Templates",
     "Selection & Iteration/Untitled.md",
     "Selection & Iteration/Iterations/For loops.md",
@@ -194,7 +201,6 @@
     "Data Structures/Arrays.md",
     "Curriculum/Hello_World_The_Big_Book_of_Pedagogy.pdf",
     "Selection & Iteration/Iterations/While loops.md",
-    "Curriculum/610951-specification-cambridge-nationals-it-j836.pdf",
     "Operators & Expressions/Comparison & Relational Operators/Less than.md",
     "Operators & Expressions/Assignment Operators/PLUS OR MINUS EQUALS.md",
     "Operators & Expressions/Assignment Operators/EQUALS.md",
@@ -208,16 +214,10 @@
     "Operators & Expressions/Assignment Operators/PLUS equals or MINUS equals.md",
     "Operators & Expressions/Boolean & Logical Operators/NOT.md",
     "Operators & Expressions/Boolean & Logical Operators/OR.md",
-    "Operators & Expressions/Boolean & Logical Operators/AND.md",
-    "Operators & Expressions/Comparison & Relational Operators/Equal.md",
-    "Operators & Expressions/Comparison & Relational Operators/Not equal.md",
-    "Operators & Expressions/Comparison & Relational Operators/Less than or equal or  greater than or equal.md",
     "Operators & Expressions/Assignment Operators",
     "Operators & Expressions/Boolean & Logical Operators",
     "Operators & Expressions/Comparison & Relational Operators",
     "Operators & Expressions/Arithmetic Operators",
-    "Selection & Iteration/Selections",
-    "Data Structures",
     "Untitled.canvas"
   ]
 }
