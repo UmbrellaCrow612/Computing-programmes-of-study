@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "506009335115c8c9",
+        "id": "e2dd60960092aa72",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0d379cf2f2729a",
+            "id": "a13fac9a0bfb1ba2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Sorting/Bubble Sort.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bubble Sort"
+              "title": "New tab"
             }
           }
         ]
@@ -180,24 +176,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f0d379cf2f2729a",
+  "active": "a13fac9a0bfb1ba2",
   "lastOpenFiles": [
-    "Algorithms/Algorithm.md",
+    "Curriculum/610951-specification-cambridge-nationals-it-j836.pdf",
     "Algorithms/Sorting/Bubble Sort.md",
-    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
-    "License",
-    "README.md",
-    "Curriculum/SECONDARY_national_curriculum_-_Computing.pdf",
-    "Untitled.canvas",
-    "Curriculum",
-    "Untitled.md",
-    "Algorithms/Recursion & Divide-and-Conquer",
-    "Algorithms/Data Structure Operations",
-    "Algorithms/Math & Number Theory",
-    "Algorithms/String Algorithms",
-    "Algorithms/Dynamic Programming",
-    "Algorithms/Graph Algorithms",
-    "Algorithms/Searching",
-    "Welcome.md"
+    "Data Structures/Arrays.md",
+    "Selection & Iteration/Iterations/For loops.md",
+    "Operators & Expressions/Operators & Expressions.md",
+    "Operators & Expressions/Comparison & Relational Operators/Less than.md",
+    "Selection & Iteration/Untitled.md",
+    "Operators & Expressions/Assignment Operators/PLUS OR MINUS EQUALS.md",
+    "Operators & Expressions/Assignment Operators/EQUALS.md",
+    "Operators & Expressions/Arithmetic Operators/MOD.md",
+    "Operators & Expressions/Arithmetic Operators/DIVIDE.md",
+    "Operators & Expressions/Arithmetic Operators/TIMES.md",
+    "Operators & Expressions/Arithmetic Operators/MINUS.md",
+    "Operators & Expressions/Arithmetic Operators/PLUS.md",
+    "Operators & Expressions/Assignment Operators/PLUS.md",
+    "Operators & Expressions/Assignment Operators/MINUS.md",
+    "Operators & Expressions/Assignment Operators/PLUS equals or MINUS equals.md",
+    "Operators & Expressions/Boolean & Logical Operators/NOT.md",
+    "Operators & Expressions/Boolean & Logical Operators/OR.md",
+    "Operators & Expressions/Boolean & Logical Operators/AND.md",
+    "Operators & Expressions/Comparison & Relational Operators/Equal.md",
+    "Operators & Expressions/Comparison & Relational Operators/Not equal.md",
+    "Operators & Expressions/Comparison & Relational Operators/Less than or equal or  greater than or equal.md",
+    "Operators & Expressions/Comparison & Relational Operators/Greater than.md",
+    "Selection & Iteration/Iteration.md",
+    "Operators & Expressions/Operators.md",
+    "Operators & Expressions/Assignment Operators",
+    "Operators & Expressions/Boolean & Logical Operators",
+    "Operators & Expressions/Comparison & Relational Operators",
+    "Operators & Expressions/Arithmetic Operators",
+    "Selection & Iteration/Selections",
+    "Data Structures",
+    "Symbols & Expressions/Expressions",
+    "Selection & Iteration/Iterations",
+    "Selection & Iteration",
+    "Operators & Expressions",
+    "Untitled.canvas"
   ]
 }
