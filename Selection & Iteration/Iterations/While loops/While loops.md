@@ -1,9 +1,8 @@
 
 
-## What is a For loop ?
 
+## Visual demo 
 
-
-
+- [[While loops visual demo]]
 
 Could get them loop around a person five times and count using fingers then show code

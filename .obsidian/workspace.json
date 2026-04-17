@@ -11,10 +11,14 @@
             "id": "b17221ba43ed0c68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Selection & Iteration/Iterations/While loops/While loops visual demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "While loops visual demo"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bubble",
+                "query": "for loo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +182,19 @@
   },
   "active": "b17221ba43ed0c68",
   "lastOpenFiles": [
-    "Selection & Iteration/Iterations/For loops.md",
-    "Algorithms/Sorting/Bubble Sort.md",
-    "JavaScript.md",
+    "Selection & Iteration/Iterations/While loops/While loops.md",
+    "Algorithms/Sorting/Bubble sort/Bubble sort visual demo.md",
+    "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
+    "Selection & Iteration/Iterations/While loops/While loops visual demo.md",
+    "Algorithms/Sorting/Bubble sort",
+    "Selection & Iteration/Iterations/For loops/For loops.md",
+    "Selection & Iteration/Iterations/While loops",
+    "Selection & Iteration/Iterations/For loops/For loops visual demo.md",
+    "Selection & Iteration/Iterations/For loops",
+    "Programming Languages/JavaScript/JavaScript.md",
+    "Programming Languages/JavaScript/JavaScript.md",
     "Programming Languages/Python/Python.md",
     "Programming Languages/CSHARP/CSHARP.md",
-    "Programming Languages/JavaScript/JavaScript.md",
     "Booleans/Booleans.md",
     "Curriculum/SECONDARY_national_curriculum_-_Computing.pdf",
     "Real world problems and physical systems",
@@ -192,28 +203,21 @@
     "Programming Languages/CSHARP",
     "Programming Languages/Python",
     "Programming Languages/JavaScript",
-    "Programming Languages",
     "Data Structures/Linked List.md",
     "Data Structures/Stack.md",
     "Data Structures/Dictionary.md",
-    "Curriculum/610951-specification-cambridge-nationals-it-j836.pdf",
     "Operators & Expressions/Operators & Expressions.md",
     "Machine Hardware/Circuits/Logic Gates.md",
     "Data Structures/Machine Memory/Bit.md",
     "Data Structures/Machine Memory/Byte.md",
-    "Machine Hardware/Circuits",
     "Functions/Functions.md",
     "Selection & Iteration/Selections/IF statements.md",
     "Templates/Material.md",
     "Selection & Iteration/Untitled.md",
     "Algorithms/Algorithm.md",
     "Data Structures/Arrays.md",
-    "Selection & Iteration/Iterations/While loops.md",
     "Operators & Expressions/Comparison & Relational Operators/Less than.md",
     "Operators & Expressions/Assignment Operators/PLUS OR MINUS EQUALS.md",
-    "Operators & Expressions/Assignment Operators/EQUALS.md",
-    "Operators & Expressions/Arithmetic Operators/MOD.md",
-    "Operators & Expressions/Arithmetic Operators/DIVIDE.md",
     "Untitled.canvas"
   ]
 }
