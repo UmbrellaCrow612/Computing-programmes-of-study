@@ -1,8 +1,6 @@
-
-Links for required knowledge:
+Related knowledge:
 
 - [[Byte]]
-- [[Bit]]
 
 # What is a Boolean ? 
 
