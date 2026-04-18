@@ -4,26 +4,27 @@ Just run this in live server or code pen
 
 ```html
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>For Loop Live Tracer</title>
+    <title>For Loop Flow Visualizer</title>
     <style>
         :root {
-            --bg: #000000;
-            --card: #111111;
-            --border: #333333;
-            --text: #ededed;
-            --accent: #0070f3; /* Vercel Blue */
-            --code-bg: #0a0a0a;
-            --highlight: rgba(0, 112, 243, 0.3);
+            --bg: #0d1117;
+            --panel: #161b22;
+            --text: #c9d1d9;
+            --init: #79c0ff;   /* Blue */
+            --check: #ff7b72;  /* Red/Coral */
+            --step: #d2a8ff;   /* Purple */
+            --body: #7ee787;   /* Green */
         }
 
         body {
             background-color: var(--bg);
             color: var(--text);
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-family: 'Fira Code', 'Courier New', monospace;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -32,171 +33,144 @@ Just run this in live server or code pen
             overflow: hidden;
         }
 
-        .container {
-            width: 90%;
-            max-width: 700px;
-            background: var(--card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
+        .editor {
+            background: var(--panel);
+            width: 550px;
             padding: 40px;
-            box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+            border-radius: 16px;
+            border: 1px solid #30363d;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.6);
         }
 
-        h2 {
-            margin-top: 0;
-            font-weight: 600;
-            letter-spacing: -0.5px;
-            color: #fff;
-            text-align: center;
-        }
-
-        /* Code Block Styling */
-        .code-window {
-            background: var(--code-bg);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 24px;
-            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-            font-size: 1.1rem;
-            line-height: 1.8;
-            margin-bottom: 30px;
-            position: relative;
-        }
-
-        .code-line {
-            transition: all 0.2s ease;
-            display: inline-block;
-            border-radius: 4px;
-            padding: 0 4px;
-        }
-
-        .active {
-            background: var(--highlight);
-            color: #3291ff;
-            box-shadow: 0 0 15px rgba(0, 112, 243, 0.2);
-            transform: translateX(5px);
-        }
-
-        /* Visual Output Area */
-        #output-grid {
-            display: flex;
-            gap: 12px;
-            justify-content: center;
-            min-height: 80px;
-            margin-bottom: 20px;
-        }
-
-        .box {
-            width: 50px;
-            height: 50px;
-            border: 1px solid var(--accent);
-            background: rgba(0, 112, 243, 0.1);
-            color: var(--accent);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
+        .line {
+            font-size: 1.2rem;
+            padding: 8px 12px;
             border-radius: 6px;
-            animation: fadeIn 0.4s ease forwards;
+            margin: 4px 0;
+            transition: all 0.4s ease;
+            display: flex;
+            gap: 8px;
+            opacity: 0.8;
         }
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
+        /* Logic Piece Highlighting */
+        .part {
+            padding: 2px 6px;
+            border-radius: 4px;
+            transition: all 0.3s ease;
         }
 
-        /* Status Text */
-        .status-bar {
-            text-align: center;
+        /* Active States */
+        .active-line { opacity: 1; background: rgba(255,255,255,0.05); }
+        
+        .active-init { background: var(--init); color: #000; box-shadow: 0 0 15px var(--init); }
+        .active-check { background: var(--check); color: #000; box-shadow: 0 0 15px var(--check); }
+        .active-body { background: var(--body); color: #000; box-shadow: 0 0 15px var(--body); }
+        .active-step { background: var(--step); color: #000; box-shadow: 0 0 15px var(--step); }
+
+        .dashboard {
+            margin-top: 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #30363d;
+            padding-top: 20px;
+        }
+
+        .monitor {
             font-size: 0.9rem;
-            color: #888;
-            height: 24px;
-            font-style: italic;
+            color: #8b949e;
         }
 
-        .var-display {
-            color: #ff0080; /* Vercel Pink for variables */
+        #explanation {
             font-weight: bold;
+            color: #58a6ff;
+            min-height: 1.2em;
         }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <h2>Loop Visualizer</h2>
+<div class="editor">
+    <div id="l1" class="line">
+        <span style="color: #ff7b72">for</span> ( 
+        <span id="p-init" class="part">let i = 0;</span> 
+        <span id="p-check" class="part">i < 3;</span> 
+        <span id="p-step" class="part">i++</span> 
+        ) {
+    </div>
     
-    <div class="code-window">
-        <div>
-            <span id="step-init" class="code-line">for (let i = 0;</span>
-            <span id="step-cond" class="code-line">i < 5;</span>
-            <span id="step-inc" class="code-line">i++) {</span>
-        </div>
-        <div style="padding-left: 25px;">
-            <span id="step-body" class="code-line">drawBox(i);</span>
-        </div>
-        <div>}</div>
+    <div id="l2" class="line">
+        &nbsp;&nbsp;&nbsp;&nbsp;<span id="p-body" class="part">console.log("Looping...");</span>
     </div>
 
-    <div id="output-grid"></div>
-    
-    <div class="status-bar" id="status-text">Initializing...</div>
+    <div id="l3" class="line">}</div>
+
+    <div class="dashboard">
+        <div class="monitor">
+            VALUE OF i: <span id="val-i" style="color: var(--init); font-size: 1.4rem;">0</span>
+        </div>
+        <div id="explanation">Ready...</div>
+    </div>
 </div>
 
 <script>
-    const statusText = document.getElementById('status-text');
-    const outputGrid = document.getElementById('output-grid');
+    let i = 0;
+    let state = 'INIT'; // INIT -> CHECK -> BODY -> STEP -> CHECK ...
+    
+    const pInit = document.getElementById('p-init');
+    const pCheck = document.getElementById('p-check');
+    const pBody = document.getElementById('p-body');
+    const pStep = document.getElementById('p-step');
+    const valI = document.getElementById('val-i');
+    const exp = document.getElementById('explanation');
 
-    async function playLoop() {
-        while (true) { // Continuous Loop
-            outputGrid.innerHTML = '';
-            
-            // 1. Initialization
-            highlight('step-init');
-            statusText.innerHTML = "Step 1: Set variable <span class='var-display'>i</span> to 0";
-            await wait(2000);
+    function clear() {
+        [pInit, pCheck, pBody, pStep].forEach(el => el.className = 'part');
+    }
 
-            for (let i = 0; i < 5; i++) {
-                // 2. Condition Check
-                highlight('step-cond');
-                statusText.innerHTML = `Step 2: Is <span class='var-display'>${i} < 5</span>? Yes! Keep going.`;
-                await wait(2000);
+    function animate() {
+        clear();
+        
+        switch(state) {
+            case 'INIT':
+                pInit.classList.add('active-init');
+                exp.innerText = "1. Setup variable 'i'";
+                i = 0;
+                valI.innerText = i;
+                state = 'CHECK';
+                break;
 
-                // 3. Run Body
-                highlight('step-body');
-                const box = document.createElement('div');
-                box.className = 'box';
-                box.innerText = i;
-                outputGrid.appendChild(box);
-                statusText.innerHTML = `Step 3: Running the code inside. Drawing box <span class='var-display'>${i}</span>`;
-                await wait(2000);
+            case 'CHECK':
+                pCheck.classList.add('active-check');
+                if (i < 3) {
+                    exp.innerText = `2. Check: Is ${i} < 3? (TRUE)`;
+                    state = 'BODY';
+                } else {
+                    exp.innerText = `2. Check: Is ${i} < 3? (FALSE) - STOP!`;
+                    state = 'INIT'; // Restart loop demo
+                }
+                break;
 
-                // 4. Increment
-                highlight('step-inc');
-                statusText.innerHTML = `Step 4: <span class='var-display'>i++</span> makes i become ${i + 1}`;
-                await wait(2000);
-            }
+            case 'BODY':
+                pBody.classList.add('active-body');
+                exp.innerText = "3. Run the code inside";
+                state = 'STEP';
+                break;
 
-            // End State
-            highlight('step-cond');
-            statusText.innerHTML = "Step 5: Is <span class='var-display'>5 < 5</span>? No. Loop Ends!";
-            await wait(3000);
-            
-            statusText.innerHTML = "Restarting demo...";
-            await wait(1500);
+            case 'STEP':
+                pStep.classList.add('active-step');
+                i++;
+                exp.innerText = `4. Increment: i becomes ${i}`;
+                valI.innerText = i;
+                state = 'CHECK';
+                break;
         }
     }
 
-    function highlight(id) {
-        document.querySelectorAll('.code-line').forEach(el => el.classList.remove('active'));
-        document.getElementById(id).classList.add('active');
-    }
-
-    function wait(ms) {
-        return new Promise(resolve => setTimeout(resolve, ms));
-    }
-
-    // Start automatically
-    playLoop();
+    // Set interval to 1800ms for readability
+    setInterval(animate, 1800);
+    animate(); // Start immediately
 </script>
 
 </body>
