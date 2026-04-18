@@ -3,6 +3,7 @@ Links: and previous knowledge required:
 - [[Operators & Expressions]]
 - [[Booleans]]
 - [[For loops]]
+- [[variables]]
 - [[Arrays]]
 - [[Functions]]
 - [[IF statements]]

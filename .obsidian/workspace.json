@@ -11,10 +11,14 @@
             "id": "eed5fcf6ab84cde7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Variables/Constants.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Constants"
             }
           }
         ]
@@ -176,14 +180,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac9c567c14ceba21",
+  "active": "eed5fcf6ab84cde7",
   "lastOpenFiles": [
+    "Variables/variables.md",
+    "Variables/Constants.md",
+    "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
+    "Variables",
+    "Algorithms/Sorting/Bubble sort/Bubble sort visual demo.md",
+    "Safety & Responsibility/Using technology/securely.md",
     "Safety & Responsibility/Using technology/safely.md",
     "Safety & Responsibility/Using technology/respectfully.md",
     "Safety & Responsibility/Protection/Privacy.md",
     "Safety & Responsibility/Protection/online identity.md",
     "Safety & Responsibility/Using technology/inappropriate content or conduct.md",
-    "Safety & Responsibility/Using technology/securely.md",
     "Safety & Responsibility/Protection",
     "Safety & Responsibility/Using technology",
     "Safety & Responsibility/Safety & Responsibility.md",
@@ -207,13 +216,8 @@
     "Booleans/Truthy values.md",
     "Booleans/Booleans.md",
     "Selection & Iteration/Selections/SWITCH Statements/SWITCH Statements visual demo.md",
-    "Selection & Iteration/Selections/SWITCH Statements",
     "Selection & Iteration/Selections/ELSE IF Statements/ELSE IF visual demo.md",
     "Selection & Iteration/Selections/IF Statements/If statements visual demo.md",
-    "Selection & Iteration/Selections/Untitled.md",
-    "Selection & Iteration/Selections/IF Statements/IF statements.md",
-    "Selection & Iteration/Iterations/For loops/For loops visual demo.md",
-    "Selection & Iteration/Iterations/While loops/While loops visual demo.md",
     "Untitled.canvas"
   ]
 }
