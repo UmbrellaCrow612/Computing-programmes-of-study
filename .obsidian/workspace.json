@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "273c959f5974c6b5",
+        "id": "8f93fcf815419a74",
         "type": "tabs",
         "children": [
           {
-            "id": "5b57b8ca090e2969",
+            "id": "1e16d00355338c11",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b57b8ca090e2969",
+  "active": "ac9c567c14ceba21",
   "lastOpenFiles": [
+    "Data Types/null & undefined",
+    "Data Types/binary",
+    "Data Types/text",
+    "Data Types/numbers",
+    "Data Structures/Array/Array visual demo.md",
+    "Data Structures/Array/Arrays.md",
+    "Data Types/Data Types.md",
+    "Data Types",
+    "Data Structures/Array",
+    "Data Structures/Stack.md",
+    "Data Structures/Linked List.md",
+    "Data Structures/Dictionary.md",
     "Variables/Variable visual demo.md",
     "Variables/variables.md",
     "Constants.md",
@@ -202,18 +214,6 @@
     "Networking/HTTP/CODES.md",
     "Networking/HTTP/Developer tools.md",
     "Networking/HTTP/Request and Response.md",
-    "Networking/HTTP/HTTP & HTTPS.md",
-    "Networking/HTTP",
-    "Networking/Topology",
-    "Networking/HTTP.md",
-    "Functions/Functions.md",
-    "Templates/Material.md",
-    "Networking",
-    "Curriculum/610951-specification-cambridge-nationals-it-j836.pdf",
-    "Cyber security/Untitled",
-    "Operators & Expressions/Operators & Expressions.md",
-    "Programming Languages/Typed & Dynamic languages/Typed and dynamic languages.md",
-    "Booleans/Falsely values.md",
     "Untitled.canvas"
   ]
 }
