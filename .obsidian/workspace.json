@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12bdce7a90d28f42",
+        "id": "aee95c22b98e0319",
         "type": "tabs",
         "children": [
           {
-            "id": "f3e441d6db45852b",
+            "id": "87f8fc6836968016",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,16 +176,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3e441d6db45852b",
+  "active": "87f8fc6836968016",
   "lastOpenFiles": [
     "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
+    "Data Types/numbers/decimal.md",
+    "Data Types/Bytes/byte.md",
+    "Data Types/text/char.md",
+    "Data Types/text/string.md",
+    "Data Types/numbers/float.md",
+    "Data Types/null & undefined/undefined.md",
+    "Data Types/null & undefined/null.md",
+    "Data Types/numbers/Integer.md",
+    "Data Types/Bytes",
+    "Data Types/Data Types.md",
     "Data Structures/Array/Arrays.md",
     "Data Types/null & undefined",
     "Data Types/binary",
     "Data Types/text",
     "Data Types/numbers",
     "Data Structures/Array/Array visual demo.md",
-    "Data Types/Data Types.md",
     "Data Types",
     "Data Structures/Array",
     "Data Structures/Stack.md",
@@ -204,15 +213,7 @@
     "Safety & Responsibility/Using technology/securely.md",
     "Safety & Responsibility/Using technology/safely.md",
     "Safety & Responsibility/Using technology/respectfully.md",
-    "Safety & Responsibility/Protection/Privacy.md",
-    "Safety & Responsibility/Protection/online identity.md",
-    "Safety & Responsibility/Using technology/inappropriate content or conduct.md",
     "Safety & Responsibility/Protection",
-    "Safety & Responsibility/Using technology",
-    "Safety & Responsibility/Safety & Responsibility.md",
-    "Networking/HTTP/CODES.md",
-    "Networking/HTTP/Developer tools.md",
-    "Networking/HTTP/Request and Response.md",
     "Untitled.canvas"
   ]
 }
