@@ -1,7 +1,7 @@
 
 Related knowledge:
 
-- [[bit]]
+- [[Bit]]
 
 ## What Are Bytes?
 

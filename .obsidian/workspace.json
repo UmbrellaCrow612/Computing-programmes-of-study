@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aee95c22b98e0319",
+        "id": "936b196e5f9fe9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "87f8fc6836968016",
+            "id": "f9b7759c6beef5c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -176,8 +180,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "87f8fc6836968016",
+  "active": "f9b7759c6beef5c1",
   "lastOpenFiles": [
+    "Tools",
+    "Networking/HTTP/Developer tools.md",
+    "Machine Hardware/Machine Memory/Bit.md",
+    "Machine Hardware/Machine Memory/Byte.md",
+    "Data Structures/Array/Arrays.md",
     "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
     "Data Types/numbers/decimal.md",
     "Data Types/Bytes/byte.md",
@@ -189,7 +198,6 @@
     "Data Types/numbers/Integer.md",
     "Data Types/Bytes",
     "Data Types/Data Types.md",
-    "Data Structures/Array/Arrays.md",
     "Data Types/null & undefined",
     "Data Types/binary",
     "Data Types/text",
@@ -209,10 +217,6 @@
     "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
     "Programming Languages/Programming language.md",
     "Variables",
-    "Algorithms/Sorting/Bubble sort/Bubble sort visual demo.md",
-    "Safety & Responsibility/Using technology/securely.md",
-    "Safety & Responsibility/Using technology/safely.md",
-    "Safety & Responsibility/Using technology/respectfully.md",
     "Safety & Responsibility/Protection",
     "Untitled.canvas"
   ]

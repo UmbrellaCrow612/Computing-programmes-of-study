@@ -1,6 +1,6 @@
 Related knowledge:
 
-- [[Data Structures/Machine Memory/Byte]]
+- [[Machine Hardware/Machine Memory/Byte]]
 
 # What is a Boolean ? 
 
