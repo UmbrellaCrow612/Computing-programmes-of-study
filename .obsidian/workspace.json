@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11b22ced1659ed82",
+        "id": "273c959f5974c6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "eed5fcf6ab84cde7",
+            "id": "5b57b8ca090e2969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variables/variables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "variables"
+              "title": "New tab"
             }
           }
         ]
@@ -180,12 +176,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "eed5fcf6ab84cde7",
+  "active": "5b57b8ca090e2969",
   "lastOpenFiles": [
-    "Programming Languages/Programming language.md",
+    "Variables/Variable visual demo.md",
+    "Variables/variables.md",
+    "Constants.md",
+    "Curriculum/Hello_World_The_Big_Book_of_Pedagogy Summary.md",
+    "Curriculum/Hello_World_The_Big_Book_of_Pedagogy.pdf",
     "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
     "Variables/Constants.md",
-    "Variables/variables.md",
+    "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
+    "Programming Languages/Programming language.md",
     "Variables",
     "Algorithms/Sorting/Bubble sort/Bubble sort visual demo.md",
     "Safety & Responsibility/Using technology/securely.md",
@@ -212,12 +213,7 @@
     "Cyber security/Untitled",
     "Operators & Expressions/Operators & Expressions.md",
     "Programming Languages/Typed & Dynamic languages/Typed and dynamic languages.md",
-    "Programming Languages/Typed & Dynamic languages",
     "Booleans/Falsely values.md",
-    "Booleans/Truthy values.md",
-    "Booleans/Booleans.md",
-    "Selection & Iteration/Selections/SWITCH Statements/SWITCH Statements visual demo.md",
-    "Selection & Iteration/Selections/ELSE IF Statements/ELSE IF visual demo.md",
     "Untitled.canvas"
   ]
 }
