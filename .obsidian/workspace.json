@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f93fcf815419a74",
+        "id": "12bdce7a90d28f42",
         "type": "tabs",
         "children": [
           {
-            "id": "1e16d00355338c11",
+            "id": "f3e441d6db45852b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,14 +176,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac9c567c14ceba21",
+  "active": "f3e441d6db45852b",
   "lastOpenFiles": [
+    "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
+    "Data Structures/Array/Arrays.md",
     "Data Types/null & undefined",
     "Data Types/binary",
     "Data Types/text",
     "Data Types/numbers",
     "Data Structures/Array/Array visual demo.md",
-    "Data Structures/Array/Arrays.md",
     "Data Types/Data Types.md",
     "Data Types",
     "Data Structures/Array",
@@ -195,7 +196,6 @@
     "Constants.md",
     "Curriculum/Hello_World_The_Big_Book_of_Pedagogy Summary.md",
     "Curriculum/Hello_World_The_Big_Book_of_Pedagogy.pdf",
-    "Algorithms/Sorting/Bubble sort/Bubble Sort.md",
     "Variables/Constants.md",
     "Curriculum/SECONDARY national curriculum Computing KS3 and KS4.md",
     "Programming Languages/Programming language.md",
@@ -210,7 +210,6 @@
     "Safety & Responsibility/Protection",
     "Safety & Responsibility/Using technology",
     "Safety & Responsibility/Safety & Responsibility.md",
-    "Safety & Responsibility",
     "Networking/HTTP/CODES.md",
     "Networking/HTTP/Developer tools.md",
     "Networking/HTTP/Request and Response.md",

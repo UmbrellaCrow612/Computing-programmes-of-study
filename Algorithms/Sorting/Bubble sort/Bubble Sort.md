@@ -1,5 +1,6 @@
 
 Links: and previous knowledge required:
+- [[Data Types]]
 - [[Operators & Expressions]]
 - [[Booleans]]
 - [[For loops]]
