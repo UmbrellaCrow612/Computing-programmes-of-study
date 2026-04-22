@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36b6c86c42592737",
+        "id": "dabce33059b98bac",
         "type": "tabs",
         "children": [
           {
-            "id": "d57b36940f24f270",
+            "id": "93e33f586d36dce7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d57b36940f24f270",
+  "active": "93e33f586d36dce7",
   "lastOpenFiles": [
+    "Version Control/GIT.md",
+    "Version Control/Explain Version control.md",
+    "Version Control",
     "Databases/SQL/SQL.md",
     "Databases/SQL",
     "Databases",
@@ -194,7 +197,6 @@
     "IO/IO.md",
     "IO",
     "Data Types/Casting/Type casting.md",
-    "Testing",
     "Console/Console.md",
     "Random/Random.md",
     "Algorithms/Searching/Binary search/Binary loop visual demo.md",
@@ -213,8 +215,6 @@
     "Cyber security/Advanced Malware & Attack Vectors.md",
     "Cyber security/Threat Actors & Motivations.md",
     "Cyber security/Ethics & Legislation.md",
-    "Cyber security/Physical Security.md",
-    "Cyber security/Basic Network Security.md",
     "Untitled.canvas"
   ]
 }
