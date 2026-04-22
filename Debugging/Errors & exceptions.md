@@ -1,4 +1,5 @@
 
+what is it and examples
 
 - Runtime errors / exeptions 
 - syntax error

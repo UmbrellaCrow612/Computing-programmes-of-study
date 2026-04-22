@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc7c86dee9488d0",
+        "id": "36b6c86c42592737",
         "type": "tabs",
         "children": [
           {
-            "id": "24efbedb80b7e5f8",
+            "id": "d57b36940f24f270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANSCII/ANSCII.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ANSCII"
+              "title": "New tab"
             }
           }
         ]
@@ -180,14 +176,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "24efbedb80b7e5f8",
+  "active": "d57b36940f24f270",
   "lastOpenFiles": [
+    "Databases/SQL/SQL.md",
+    "Databases/SQL",
+    "Databases",
+    "Debugging/Errors & exceptions.md",
     "ANSCII/ANSCII.md",
+    "Past papers/OCR",
     "ANSCII",
     "Past papers/Pearson Edexcel/2024/May 2024 QP  Paper 1 Pearson Edexel Level 1-2 Computer Science GCSE.pdf",
     "Past papers/Pearson Edexcel/2024",
     "Past papers/Pearson Edexcel/Untitled.canvas",
-    "Debugging/Errors & exceptions.md",
     "Past papers/Pearson Edexcel",
     "Programming Languages/Untitled",
     "Testing/Test plans.md",
@@ -196,10 +196,7 @@
     "Data Types/Casting/Type casting.md",
     "Testing",
     "Console/Console.md",
-    "Data Types/Casting",
     "Random/Random.md",
-    "Random",
-    "Console",
     "Algorithms/Searching/Binary search/Binary loop visual demo.md",
     "Algorithms/Searching/Binary search/Binary search.md",
     "Selection & Iteration/Iterations/While loops/While loops.md",
@@ -218,7 +215,6 @@
     "Cyber security/Ethics & Legislation.md",
     "Cyber security/Physical Security.md",
     "Cyber security/Basic Network Security.md",
-    "Cyber security/Safe Online Behaviour.md",
     "Untitled.canvas"
   ]
 }

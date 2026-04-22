@@ -1,0 +1,2 @@
+
+LKnow basic SQL AND HOW TO QUERY 
