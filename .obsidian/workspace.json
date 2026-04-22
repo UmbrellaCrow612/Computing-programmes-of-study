@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 340.5
   },
   "right": {
     "id": "190f09cd44cc01f8",
@@ -176,8 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "93e33f586d36dce7",
+  "active": "ac9c567c14ceba21",
   "lastOpenFiles": [
+    "Past papers/OCR/2024",
+    "Past papers/OCR/2024/727535-question-paper-computational-thinking-algorithms-and-programming.pdf",
     "Version Control/GIT.md",
     "Version Control/Explain Version control.md",
     "Version Control",
@@ -195,7 +197,6 @@
     "Programming Languages/Untitled",
     "Testing/Test plans.md",
     "IO/IO.md",
-    "IO",
     "Data Types/Casting/Type casting.md",
     "Console/Console.md",
     "Random/Random.md",
@@ -214,7 +215,6 @@
     "Cyber security/Cryptography.md",
     "Cyber security/Advanced Malware & Attack Vectors.md",
     "Cyber security/Threat Actors & Motivations.md",
-    "Cyber security/Ethics & Legislation.md",
     "Untitled.canvas"
   ]
 }
