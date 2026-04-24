@@ -11,10 +11,14 @@
             "id": "870c512ba174e66d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Networking/HTTP/Fetch execute cycle/Fetch execution cycle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fetch execution cycle"
             }
           }
         ]
@@ -176,8 +180,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac9c567c14ceba21",
+  "active": "870c512ba174e66d",
   "lastOpenFiles": [
+    "Networking/PAN/PAN.md",
+    "Networking/HTTP/Fetch execute cycle/Fetch execution cycle.md",
+    "Networking/HTTP/Fetch execute cycle",
+    "Networking/PAN",
     "Past papers/Pearson Edexcel/2024/May 2024 QP  Paper 1 Pearson Edexel Level 1-2 Computer Science GCSE.pdf",
     "Networking/LAN/LAN.md",
     "Networking/WAN/WAN.md",
@@ -194,9 +202,7 @@
     "Complier/Complier.md",
     "Interpreter/interpreter.md",
     "Interpreter",
-    "Complier",
     "OOP/Object Oriented Programming.md",
-    "Past papers/AQA/2024/June 2024 QP - Paper 1A AQA Computer Science GCSE.pdf",
     "Console/Console.md",
     "Console/Reading user input.md",
     "Data Structures/Array/2D Arrays.md",
@@ -213,7 +219,6 @@
     "Data Types/Casting/Type casting.md",
     "Algorithms/Searching/Binary search/Binary loop visual demo.md",
     "Algorithms/Searching/Binary search/Binary search.md",
-    "Selection & Iteration/Iterations/While loops/While loops.md",
     "Untitled.canvas"
   ]
 }
