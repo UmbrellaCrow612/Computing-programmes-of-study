@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "97e485a496fdc456",
+        "id": "7fde54329dc26ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "1c81c67c21a60468",
+            "id": "6ed04f901844df48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Databases/notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "notes"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for loo",
+                "query": "PAN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,45 +180,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c81c67c21a60468",
+  "active": "ac9c567c14ceba21",
   "lastOpenFiles": [
-    "README.md",
-    "Networking/HTTP/Fetch execute cycle/Fetch execution cycle.md",
-    "Networking/PAN/PAN.md",
-    "Networking/HTTP/Fetch execute cycle",
-    "Networking/PAN",
-    "Past papers/Pearson Edexcel/2024/May 2024 QP  Paper 1 Pearson Edexel Level 1-2 Computer Science GCSE.pdf",
-    "Networking/LAN/LAN.md",
-    "Networking/WAN/WAN.md",
-    "Networking/WAN",
-    "Networking/LAN",
-    "Testing/Penetration testing.md",
-    "Networking/TCP/TCP.md",
-    "Networking/TCP",
-    "Past papers/OCR/2024/727535-question-paper-computational-thinking-algorithms-and-programming.pdf",
-    "Algorithms/Sorting/Insertion sort/Insertion sort.md",
-    "Algorithms/Sorting/Insertion sort",
-    "Algorithms/Sorting/Merge sort/Merge sort.md",
-    "Algorithms/Sorting/Merge sort",
-    "Complier/Complier.md",
-    "Interpreter/interpreter.md",
-    "Interpreter",
-    "OOP/Object Oriented Programming.md",
-    "Console/Console.md",
-    "Console/Reading user input.md",
-    "Data Structures/Array/2D Arrays.md",
-    "Variables/Scope.md",
-    "ANSCII/ANSCII.md",
-    "Random/Random.md",
-    "Version Control/GIT.md",
-    "Version Control/Explain Version control.md",
-    "Databases/SQL/SQL.md",
-    "Debugging/Errors & exceptions.md",
+    "Databases/Non relational Databases",
+    "Networking/TCP & IP/TCP.md",
+    "Databases/notes.md",
+    "Databases/Data Types",
+    "Databases/Relational Databases",
+    "Networking/Network Topologies/netowkr top.md",
+    "Networking/Network Topologies",
+    "Algorithms/Sorting/Bubble sort/Bubble sort visual demo.md",
+    "Data Structures/Array/Array visual demo.md",
+    "Machine Hardware/Circuits/Logic Circuits.md",
+    "Machine Hardware/Circuits/Logic Gates.md",
+    "Machine Hardware/Machine Memory/Bit.md",
+    "Robust and safe software/Boundary & normal & erroneous testing.md",
+    "Robust and safe software/Error handling.md",
+    "Robust and safe software/Input validation.md",
+    "Algorithms/Algoirthms design.md",
+    "Robust and safe software",
+    "Algorithms/Searching/Linear search",
+    "Assemblers/Assemblers.md",
+    "Algorithms/Algorithm Design",
+    "Programming Languages/High level & Low level languages.md",
+    "Assemblers",
+    "Machine Hardware/CPU/CPU.md",
+    "Data Types/Data Representation/Images.md",
+    "Data Types/Data Representation/Sound.md",
+    "Data Types/Data Representation/Images",
+    "Machine Hardware/Machine Memory/Converting.md",
+    "Data Types/Data Representation",
+    "Machine Hardware/Machine Memory/terabytes.md",
+    "Machine Hardware/Machine Memory/gigabytes.md",
+    "Machine Hardware/Machine Memory/megabytes.md",
+    "Machine Hardware/Machine Memory/kilobytes.md",
+    "Machine Hardware/Machine Memory/Binary shifts.md",
+    "Machine Hardware/Machine Memory/Binary addition.md",
+    "Machine Hardware/Machine Memory/hexadecimal.md",
+    "Pearson Edexcel",
     "Past papers/Pearson Edexcel/Untitled.canvas",
-    "Testing/Test plans.md",
-    "IO/IO.md",
-    "Data Types/Casting/Type casting.md",
-    "Algorithms/Searching/Binary search/Binary loop visual demo.md",
     "Untitled.canvas"
   ]
 }
